@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-prototype-pollution-lab",
+  "version": "1.0.0",
+  "author": "TheWation",
+  "main": "./main",
+  "homepage": "https://github.com/TheWation/NodeJsPrototypePollutionLab",
+  "dependencies": {}
+}
